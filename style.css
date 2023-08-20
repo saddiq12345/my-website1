@@ -1,0 +1,78 @@
+
+ .khan{
+   
+    border-radius: 10px;
+    background-color: rgb(239, 250, 84);
+    color: blueviolet;
+    
+   
+
+    
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(149, 248, 182);
+    color: rgb(247, 19, 49);
+    border-radius: 5px;
+    box-shadow: 4px 4px;
+    box-shadow: tope 4px px;
+}
+.navbar{
+    padding: 14px 150px;
+    
+   
+}
+.yahya{
+    border-color: rgb(12, 232, 41);
+    background-color: aqua;
+}
+/* Baaki styles... */
+
+footer {
+    background-color: #333;
+    color: rgb(215, 20, 20);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+   text-align: center;
+}
+
+.footer-icons {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+.footer-icons a {
+    margin-bottom: 10px;
+   
+}
+
+.footer-icons a img {
+    width: 30px;
+    margin-right: 10px;
+   
+}
+
+/* Baaki styles... */
+/* Baaki styles... */
+
+.form-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.form-group input,
+.form-group select {
+    width: 48%; /* To leave some space for spacing between elements */
+}
+
+/* Baaki styles... */
+
+ .icons{
+
+    display: flex;}

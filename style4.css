@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    color: brown;
+}
+ p{
+    color: rgb(28, 28, 236);
+ }
+ button{
+    background-color: aqua;
+    color: blueviolet;
+ }
